@@ -6,7 +6,7 @@ export default function App() {
     <Wrapper>
       <Spline
         className="spline"
-        scene="https://prod.spline.design/i6oHi4XMFX0QxCKU/scene.splinecode"
+          scene="https://prod.spline.design/i6oHi4XMFX0QxCKU/scene.splinecode" 
       />
 
       <Menu>
@@ -94,7 +94,7 @@ const Wrapper = styled.div`
 
 const Content = styled.div`
   position: absolute;
-  top: 30px;
+  top: 107px;
   top: 144px;
   display: flex;
   flex-direction: column;
@@ -236,7 +236,7 @@ const Menu = styled.div`
 
 const Social = styled.div`
   position: absolute;
-  top: 150px;
+  top: 107px;
   left: 30px;
   display: flex;
   flex-direction: column;
